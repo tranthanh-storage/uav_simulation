@@ -41,7 +41,7 @@ sudo make install
 sudo ldconfig /usr/local/lib/
 ```
 
-- Clone [uav_simulation]() project
+- Clone [uav_simulation](https://github.com/tranthanh-storage/uav_simulation) project
 
 ### Step 3: Build firmware
 
