@@ -72,6 +72,11 @@ Open some terminals
 cd PX4-Autopilot
 make px4_sitl_default gazebo-classic_iris
 ```
+in case using Gazebo Harmonic/Ionic/Jetty
+```
+cd PX4-Autopilot
+make px4_sitl gz_x500
+```
 
 - Terminal 2: run the comunication of ROS 2 and PX4
 ```
