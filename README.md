@@ -50,6 +50,11 @@ sudo ldconfig /usr/local/lib/
 cd PX4-Autopilot
 make px4_sitl_default gazebo-classic_iris
 ```
+in case using Gazebo Harmonic/Ionic/Jetty
+```
+cd PX4-Autopilot
+make px4_sitl gz_x500
+```
 
 - Build uav_simualtion project
 ```
