@@ -1,0 +1,15 @@
+# Ignore Gazebo model
+my_vehicle/
+
+# Build artifacts (optional)
+build/
+install/
+log/
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.vscode/
